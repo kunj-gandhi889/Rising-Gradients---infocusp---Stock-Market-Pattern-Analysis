@@ -1,0 +1,301 @@
+,date,pattern
+0,2020-01-02,No Pattern
+1,2020-01-03,No Pattern
+2,2020-01-06,Head and Shoulders
+3,2020-01-07,No Pattern
+4,2020-01-08,No Pattern
+5,2020-01-09,No Pattern
+6,2020-01-10,No Pattern
+7,2020-01-13,No Pattern
+8,2020-01-14,No Pattern
+9,2020-01-15,Double Top
+10,2020-01-16,Head and Shoulders
+11,2020-01-17,No Pattern
+12,2020-01-20,No Pattern
+13,2020-01-21,Head and Shoulders
+14,2020-01-22,No Pattern
+15,2020-01-23,No Pattern
+16,2020-01-24,No Pattern
+17,2020-01-27,No Pattern
+18,2020-01-28,No Pattern
+19,2020-01-29,No Pattern
+20,2020-01-30,No Pattern
+21,2020-01-31,No Pattern
+22,2020-02-03,No Pattern
+23,2020-02-04,Head and Shoulders
+24,2020-02-05,No Pattern
+25,2020-02-06,No Pattern
+26,2020-02-07,No Pattern
+27,2020-02-10,No Pattern
+28,2020-02-11,No Pattern
+29,2020-02-12,No Pattern
+30,2020-02-13,Double Bottom
+31,2020-02-14,No Pattern
+32,2020-02-17,No Pattern
+33,2020-02-18,No Pattern
+34,2020-02-19,No Pattern
+35,2020-02-20,No Pattern
+36,2020-02-21,Reverse Head and Shoulders
+37,2020-02-24,Reverse Head and Shoulders
+38,2020-02-25,No Pattern
+39,2020-02-26,No Pattern
+40,2020-02-27,Double Bottom
+41,2020-02-28,No Pattern
+42,2020-03-02,No Pattern
+43,2020-03-03,No Pattern
+44,2020-03-04,No Pattern
+45,2020-03-05,Head and Shoulders
+46,2020-03-06,No Pattern
+47,2020-03-09,No Pattern
+48,2020-03-10,No Pattern
+49,2020-03-11,No Pattern
+50,2020-03-12,No Pattern
+51,2020-03-13,Reverse Head and Shoulders
+52,2020-03-16,No Pattern
+53,2020-03-17,No Pattern
+54,2020-03-18,No Pattern
+55,2020-03-19,No Pattern
+56,2020-03-20,No Pattern
+57,2020-03-23,No Pattern
+58,2020-03-24,Double Top
+59,2020-03-25,No Pattern
+60,2020-03-26,No Pattern
+61,2020-03-27,Head and Shoulders
+62,2020-03-30,No Pattern
+63,2020-03-31,No Pattern
+64,2020-04-01,No Pattern
+65,2020-04-02,No Pattern
+66,2020-04-03,No Pattern
+67,2020-04-06,No Pattern
+68,2020-04-07,No Pattern
+69,2020-04-08,No Pattern
+70,2020-04-09,No Pattern
+71,2020-04-10,Head and Shoulders
+72,2020-04-13,No Pattern
+73,2020-04-14,No Pattern
+74,2020-04-15,No Pattern
+75,2020-04-16,Reverse Head and Shoulders
+76,2020-04-17,Reverse Head and Shoulders
+77,2020-04-20,No Pattern
+78,2020-04-21,No Pattern
+79,2020-04-22,No Pattern
+80,2020-04-23,No Pattern
+81,2020-04-24,Head and Shoulders
+82,2020-04-27,No Pattern
+83,2020-04-28,No Pattern
+84,2020-04-29,No Pattern
+85,2020-04-30,No Pattern
+86,2020-05-01,No Pattern
+87,2020-05-04,Double Top
+88,2020-05-05,No Pattern
+89,2020-05-06,No Pattern
+90,2020-05-07,Double Bottom
+91,2020-05-08,Double Top
+92,2020-05-11,No Pattern
+93,2020-05-12,No Pattern
+94,2020-05-13,Double Top
+95,2020-05-14,No Pattern
+96,2020-05-15,No Pattern
+97,2020-05-18,No Pattern
+98,2020-05-19,No Pattern
+99,2020-05-20,No Pattern
+100,2020-05-21,No Pattern
+101,2020-05-22,No Pattern
+102,2020-05-25,Reverse Head and Shoulders
+103,2020-05-26,Double Top
+104,2020-05-27,Reverse Head and Shoulders
+105,2020-05-28,No Pattern
+106,2020-05-29,Reverse Head and Shoulders
+107,2020-06-01,No Pattern
+108,2020-06-02,No Pattern
+109,2020-06-03,No Pattern
+110,2020-06-04,Head and Shoulders
+111,2020-06-05,No Pattern
+112,2020-06-08,Reverse Head and Shoulders
+113,2020-06-09,Double Bottom
+114,2020-06-10,No Pattern
+115,2020-06-11,No Pattern
+116,2020-06-12,No Pattern
+117,2020-06-15,No Pattern
+118,2020-06-16,No Pattern
+119,2020-06-17,No Pattern
+120,2020-06-18,No Pattern
+121,2020-06-19,No Pattern
+122,2020-06-22,No Pattern
+123,2020-06-23,No Pattern
+124,2020-06-24,Double Bottom
+125,2020-06-25,Head and Shoulders
+126,2020-06-26,No Pattern
+127,2020-06-29,No Pattern
+128,2020-06-30,No Pattern
+129,2020-07-01,No Pattern
+130,2020-07-02,Double Bottom
+131,2020-07-03,No Pattern
+132,2020-07-06,No Pattern
+133,2020-07-07,No Pattern
+134,2020-07-08,No Pattern
+135,2020-07-09,No Pattern
+136,2020-07-10,No Pattern
+137,2020-07-13,No Pattern
+138,2020-07-14,Double Bottom
+139,2020-07-15,No Pattern
+140,2020-07-16,Double Top
+141,2020-07-17,No Pattern
+142,2020-07-20,Double Top
+143,2020-07-21,No Pattern
+144,2020-07-22,No Pattern
+145,2020-07-23,No Pattern
+146,2020-07-24,No Pattern
+147,2020-07-27,No Pattern
+148,2020-07-28,No Pattern
+149,2020-07-29,No Pattern
+150,2020-07-30,No Pattern
+151,2020-07-31,No Pattern
+152,2020-08-03,No Pattern
+153,2020-08-04,No Pattern
+154,2020-08-05,No Pattern
+155,2020-08-06,No Pattern
+156,2020-08-07,No Pattern
+157,2020-08-10,No Pattern
+158,2020-08-11,Double Top
+159,2020-08-12,No Pattern
+160,2020-08-13,No Pattern
+161,2020-08-14,No Pattern
+162,2020-08-17,No Pattern
+163,2020-08-18,Double Top
+164,2020-08-19,No Pattern
+165,2020-08-20,No Pattern
+166,2020-08-21,No Pattern
+167,2020-08-24,No Pattern
+168,2020-08-25,Double Top
+169,2020-08-26,No Pattern
+170,2020-08-27,Double Top
+171,2020-08-28,No Pattern
+172,2020-08-31,Reverse Head and Shoulders
+173,2020-09-01,No Pattern
+174,2020-09-02,Head and Shoulders
+175,2020-09-03,Head and Shoulders
+176,2020-09-04,Double Top
+177,2020-09-07,No Pattern
+178,2020-09-08,No Pattern
+179,2020-09-09,Double Top
+180,2020-09-10,No Pattern
+181,2020-09-11,Reverse Head and Shoulders
+182,2020-09-14,No Pattern
+183,2020-09-15,No Pattern
+184,2020-09-16,Double Top
+185,2020-09-17,No Pattern
+186,2020-09-18,No Pattern
+187,2020-09-21,Double Top
+188,2020-09-22,No Pattern
+189,2020-09-23,No Pattern
+190,2020-09-24,No Pattern
+191,2020-09-25,No Pattern
+192,2020-09-28,No Pattern
+193,2020-09-29,No Pattern
+194,2020-09-30,No Pattern
+195,2020-10-01,No Pattern
+196,2020-10-02,No Pattern
+197,2020-10-05,No Pattern
+198,2020-10-06,No Pattern
+199,2020-10-07,Reverse Head and Shoulders
+200,2020-10-08,No Pattern
+201,2020-10-09,No Pattern
+202,2020-10-12,Double Bottom
+203,2020-10-13,No Pattern
+204,2020-10-14,No Pattern
+205,2020-10-15,No Pattern
+206,2020-10-16,Double Bottom
+207,2020-10-19,Double Bottom
+208,2020-10-20,Head and Shoulders
+209,2020-10-21,No Pattern
+210,2020-10-22,No Pattern
+211,2020-10-23,No Pattern
+212,2020-10-26,No Pattern
+213,2020-10-27,Double Bottom
+214,2020-10-28,No Pattern
+215,2020-10-29,No Pattern
+216,2020-10-30,Head and Shoulders
+217,2020-11-02,Double Bottom
+218,2020-11-03,No Pattern
+219,2020-11-04,No Pattern
+220,2020-11-05,Reverse Head and Shoulders
+221,2020-11-06,Reverse Head and Shoulders
+222,2020-11-09,Head and Shoulders
+223,2020-11-10,No Pattern
+224,2020-11-11,No Pattern
+225,2020-11-12,Head and Shoulders
+226,2020-11-13,No Pattern
+227,2020-11-16,Reverse Head and Shoulders
+228,2020-11-17,No Pattern
+229,2020-11-18,No Pattern
+230,2020-11-19,No Pattern
+231,2020-11-20,No Pattern
+232,2020-11-23,No Pattern
+233,2020-11-24,No Pattern
+234,2020-11-25,Head and Shoulders
+235,2020-11-26,No Pattern
+236,2020-11-27,No Pattern
+237,2020-11-30,Double Top
+238,2020-12-01,No Pattern
+239,2020-12-02,Double Top
+240,2020-12-03,No Pattern
+241,2020-12-04,No Pattern
+242,2020-12-07,No Pattern
+243,2020-12-08,Head and Shoulders
+244,2020-12-09,No Pattern
+245,2020-12-10,No Pattern
+246,2020-12-11,No Pattern
+247,2020-12-14,No Pattern
+248,2020-12-15,No Pattern
+249,2020-12-16,No Pattern
+250,2020-12-17,No Pattern
+251,2020-12-18,No Pattern
+252,2020-12-21,No Pattern
+253,2020-12-22,No Pattern
+254,2020-12-23,No Pattern
+255,2020-12-24,No Pattern
+256,2020-12-25,No Pattern
+257,2020-12-28,Double Top
+258,2020-12-29,No Pattern
+259,2020-12-30,No Pattern
+260,2020-12-31,No Pattern
+261,2021-01-01,Double Bottom
+262,2021-01-04,No Pattern
+263,2021-01-05,No Pattern
+264,2021-01-06,Double Bottom
+265,2021-01-07,No Pattern
+266,2021-01-08,Head and Shoulders
+267,2021-01-11,Double Top
+268,2021-01-12,No Pattern
+269,2021-01-13,Head and Shoulders
+270,2021-01-14,No Pattern
+271,2021-01-15,No Pattern
+272,2021-01-18,Head and Shoulders
+273,2021-01-19,No Pattern
+274,2021-01-20,Double Bottom
+275,2021-01-21,No Pattern
+276,2021-01-22,No Pattern
+277,2021-01-25,No Pattern
+278,2021-01-26,No Pattern
+279,2021-01-27,No Pattern
+280,2021-01-28,No Pattern
+281,2021-01-29,No Pattern
+282,2021-02-01,No Pattern
+283,2021-02-02,No Pattern
+284,2021-02-03,No Pattern
+285,2021-02-04,Head and Shoulders
+286,2021-02-05,No Pattern
+287,2021-02-08,Reverse Head and Shoulders
+288,2021-02-09,No Pattern
+289,2021-02-10,No Pattern
+290,2021-02-11,No Pattern
+291,2021-02-12,No Pattern
+292,2021-02-15,No Pattern
+293,2021-02-16,No Pattern
+294,2021-02-17,No Pattern
+295,2021-02-18,No Pattern
+296,2021-02-19,Double Top
+297,2021-02-22,No Pattern
+298,2021-02-23,Reverse Head and Shoulders
+299,2021-02-24,No Pattern
