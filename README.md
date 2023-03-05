@@ -21,6 +21,8 @@ inorder to understand this project better, the user must have basic of stock mar
 #### Understand Stock Market Data Representation : https://www.investopedia.com/terms/c/candlestick.asp 
 #### Understand Stock Market Pattern : https://www.cmcmarkets.com/en/trading-guides/stock-chart-patterns
 
+### All code is in : chart_pattern_analysis.ipynb
+
 ### Steps
 1. We are representing the data of day in form of candlestick data which is visualize better using plotly since the data is in time series format.
 2. Any data having 'open', 'high', 'low', 'close' and 'date' & more can be plotted and visualize using this representation.
